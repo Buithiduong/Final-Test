@@ -1,0 +1,11 @@
+{
+    "invalidEmail": "duong.bui",
+    "requiredErrorMsg": "This field is required",
+    "invalidErrorMsg": "Enter a valid email address",
+    "firstName": "Duong",
+    "lastName": "Thuy",
+    "email": "duong.bui@niteco.se",
+    "message": "Need to support",
+    "submitSuccessMsg": "The form has been submitted successfully."
+}
+  

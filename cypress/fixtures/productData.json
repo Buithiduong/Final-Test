@@ -1,0 +1,20 @@
+{
+    "productQDP":{
+        "url":"https://prep.brownells.com/gun-parts/rifle-parts/rifle-muzzle-devices/clutch-lok-tapered-qd-flash-hider-for-slxslh-suppressors/",
+        "variantItems":["22 Caliber"],
+        "email": "nitecocheck03@yopmail.com",
+        "password": "Niteco@123456",
+        "quantityDiscounts":[
+            {
+                "quantity":5,
+                "pricePerUnit":140.00,
+                "totalAmount":700.00
+            },
+            {
+                "quantity":10,
+                "pricePerUnit":134.25,
+                "totalAmount":1342.50
+            }
+        ]
+    }
+}
